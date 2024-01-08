@@ -1,0 +1,9 @@
+#pink{
+    background-color: pink;
+}
+#kseeb{
+    background-color: goldenrod;
+}
+#whole{
+    background-image: -webkit-linear-gradient(left,rgb(218, 250, 40),rgb(247, 186, 195));
+}
